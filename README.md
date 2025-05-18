@@ -5,7 +5,7 @@ This repository has the learning files for the software team in BZU Quantum Comp
 
 1. Fork this repository or download the notebooks.
 2. Open each `.ipynb` file in Jupyter Notebook or Google Colab.
-3. Solve the problems in the cells provided.
+3. Solve the problems in the "Task" file provided.
 4. Save your work and submit via GitHub 
 
 ## 📘Github upload
