@@ -32,13 +32,3 @@ This repository has the learning files for the software team in BZU Quantum Comp
 4. Click **“Commit changes”** to finalize.
 
 ---
-
-### 📩 Option 2: Submitting via Email
-1. After solving the problems, download or save the `.ipynb` files.
-2. Email the files to your instructor or TA, as instructed.
-
----
-
-### 💡 Tip: Opening in Google Colab
-You can open any notebook in Google Colab by replacing the GitHub URL like this:
-
