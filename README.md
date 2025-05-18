@@ -20,12 +20,14 @@ This repository has the learning files for the software team in BZU Quantum Comp
 
 ### 📝 Option 1: Using GitHub (Recommended for GitHub users)
 
-#### If You Forked This Repo:
+#### Forke This Repo for us to see that you completed the task:
 1. After editing and solving the problems, go to your forked version of the repository.
 2. Click **“Add file” > “Upload files”** or commit changes from your local Git if using Git/GitHub Desktop.
-3. Optionally, submit a **Pull Request** to share your solutions back with the main repo (if allowed).
+3.  **Pull Request** to share your solutions back with the main repo
+4. Add your **name**, in the pull request description.
+7. Submit the pull request. You’ll see it appear in the “Pull Requests” tab of the main repository.
 
-#### If You Didn’t Fork, But Want to Upload Your Work:
+#### Upload it again as a separate work on your Github:
 1. Go to [https://github.com](https://github.com) and click **“+” > “New repository”**.
 2. Create a new public repo (e.g., `My-Quantum-Solutions`).
 3. Upload your completed `.ipynb` files via **“Add file” > “Upload files”**.
